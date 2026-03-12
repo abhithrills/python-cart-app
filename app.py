@@ -5,7 +5,7 @@ app.secret_key = "secret123"
 
 # Sample products
 products = [
-    {"id": 1, "name": "Laptop", "price": 50000},
+    {"id": 1, "name": "Laptop", "price": 10000},
     {"id": 2, "name": "Mobile", "price": 20000},
     {"id": 3, "name": "Headphones", "price": 2000}
 ]
